@@ -159,7 +159,7 @@ section {
 
 .produto-container {
   position: relative;
-  background: url('https://s7.ezgif.com/tmp/ezgif-7922564a2f01d6.gif') no-repeat center/cover;
+  background: url('./images/eldenr.gif') no-repeat center/cover;
   background-position-y: bottom;
   color: var(--white);
   padding-bottom: 80px;
